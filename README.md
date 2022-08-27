@@ -35,7 +35,7 @@ For more details about the cursus visit: [42 Cursus](https://github.com/achrafel
 ## Finished Projects:
 
 - [x]	[libft](https://github.com/abdoachhoubi/libft)
-- [ ]	get_next_line (working on it)
+- [ ]	[get_next_line](https://github.com/abdoachhoubi/get_next_line)
 
 ## Authors
 
