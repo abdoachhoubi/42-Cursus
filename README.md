@@ -1,15 +1,15 @@
 <h1 align="center">1337FIL - 42 Cursus</h1>
 
-```
+```bash
 # **************************************************************************** #
 #                                                                              #
 #                                                         :::      ::::::::    #
 #    42 Cursus                                          :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: aachhoub <aachhoub@42.fr>                  +#+  +:+       +#+         #
+#    By: aachhoub <aachhoub@student.1337.ma>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2022/08/20      by aachhoub              #+#    #+#              #
-#    Updated: 2022/08/20      by aachhoub             ###   ########.fr        #
+#    Created: 2022/12/04      by aachhoub              #+#    #+#              #
+#    Updated: 2022/12/04      by aachhoub             ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 ```
@@ -36,7 +36,8 @@ For more details about the cursus visit: [42 Cursus](https://github.com/achrafel
 
 - [x]	[libft](https://github.com/abdoachhoubi/libft)
 - [x]	[get_next_line](https://github.com/abdoachhoubi/get_next_line)
-- [ ]	[ft_printf](https://github.com/abdoachhoubi/ft_printf)
+- [x]	[ft_printf](https://github.com/abdoachhoubi/ft_printf)
+- [x]	[pipex](https://github.com/abdoachhoubi/pipex)
 
 
 ## Authors
