@@ -34,12 +34,13 @@ For more details about the cursus visit: [42 Cursus](https://github.com/achrafel
 
 ## Finished Projects:
 
-- [x]	[libft](https://github.com/abdoachhoubi/libft)
-- [x]	[get_next_line](https://github.com/abdoachhoubi/get_next_line)
-- [x]	[ft_printf](https://github.com/abdoachhoubi/ft_printf)
-- [x]	[pipex](https://github.com/abdoachhoubi/pipex)
+- [x] [libft](https://github.com/abdoachhoubi/libft)
+- [x] [get_next_line](https://github.com/abdoachhoubi/get_next_line)
+- [x] [ft_printf](https://github.com/abdoachhoubi/ft_printf)
+- [x] [born2beroot](https://github.com/abdoachhoubi)
+- [x] [pipex](https://github.com/abdoachhoubi/pipex)
+- [x] [so_long](https://github.com/abdoachhoubi/so_long)
 
-
-## Authors
+## Author
 
 - [Abdo Achhoubi](https://github.com/abdoachhoubi)
