@@ -18,21 +18,25 @@
 
 I CODE, YOU CODE, WE CODE…
 
-1337 is the first to provide IT training in Morocco, completely free of charge, open and accessible to anyone between the ages of 18 and 30. No need for an IT degree, or of having undergone extensive IT training. The only criteria for admission in Treize, Trente-Sept is CREATIVITY.
+1337 is a trailblazer in Morocco, as it offers IT training that is both completely free and accessible to all individuals between the ages of 18 and 30. No IT degree or extensive IT training is necessary to qualify. The only requirement for admission to Treize, Trente-Sept is a creative mindset.
 
-For more information visit: [1337.ma](https://1337.ma/en/)
+For more information visit: [1337.ma](https://1337.ma/)
 
 ## 42 Cursus?
 
-42cursus comprises two groups of projects: the first one being known as "inner circle" and the second one, "outer treks" - due to the Holy Graph layout (see image below).
+42cursus offers two categories of projects, referred to as the "inner circle" and "outer treks" based on the Holy Graph layout (depicted in the image below).
 
-The inner circle is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
+The inner circle encompasses the fundamental curriculum, requiring completion of all projects to achieve level 7 - the minimum level prerequisite for internships and interchange.
 
-The outer treks is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
+On the other hand, the outer treks provide a variety of project trails encompassing subjects such as operational systems and web development, which allow cadets to specialize in their preferred subject.
 
-For more details about the cursus visit: [42 Cursus](https://github.com/achrafelkhnissi/1337/blob/master/42curses/README.md)
+For more details about the cursus visit: [42 Cursus](https://source.leet.ma/tips/cursus)
 
-## Finished Projects:
+## Holy Graph
+
+<img src="https://github.com/abdoachhoubi/42-Cursus/blob/main/public/Holygraph.png" />
+
+## Projects:
 
 - [x] [libft](https://github.com/abdoachhoubi/libft)
 - [x] [get_next_line](https://github.com/abdoachhoubi/get_next_line)
@@ -40,7 +44,17 @@ For more details about the cursus visit: [42 Cursus](https://github.com/achrafel
 - [x] [born2beroot](https://github.com/abdoachhoubi)
 - [x] [pipex](https://github.com/abdoachhoubi/pipex)
 - [x] [so_long](https://github.com/abdoachhoubi/so_long)
+- [x] [push_swap](https://github.com/abdoachhoubi/push_swap)
+- [ ] philosophers
+- [ ] minishell
+- [ ] NetPractice
+- [ ] cub3d
+- [ ] CPP Pool
+- [ ] ft_containers
+- [ ] WebServ
+- [ ] Inception
+- [ ] ft_transendece
 
 ## Author
 
-- [Abdo Achhoubi](https://github.com/abdoachhoubi)
+- [Astro](https://astro.leet.ma)
